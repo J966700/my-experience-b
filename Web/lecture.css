@@ -1,0 +1,75 @@
+*{
+    background-color: navy;
+}
+a{
+    color:rgba(208, 178, 10, 0.915);
+    text-align:right;
+    text-decoration: none;
+}
+
+div{
+    display:flex;
+    padding:0 580px;
+} 
+
+.home{
+    padding-right: 30px;
+}
+
+.about{
+    padding:0 30px;
+}
+
+.project{
+    padding:0 30px;
+
+}
+
+
+.abouth1, .projectsh1, .hell,h2{
+    color:rgba(208, 178, 10, 0.915);
+    text-align:center;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+}
+
+.gallery{
+    padding:0 40px;
+}
+
+p,.K,.J,.F{
+    color: white;
+}
+footer{
+    font-weight: light;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    padding-bottom: 19px;
+    background-color: rgb(88, 135, 135);
+    border-radius: 2px;
+    border-bottom: none;
+}
+.content{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    left: 30px;
+    gap: 30px 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+    
+}
+
+.head43{
+    color:rgba(208, 178, 10, 0.915);
+    text-align: center;
+}
+
+.content1{
+    text-align: center;
+}
+a:hover{
+    color:orangered;
+
+}
+
